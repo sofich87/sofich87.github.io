@@ -10,18 +10,18 @@ h1 {
     font-family: "Open sans", sans-serif;
   }
 
-p {
+ p {
     text-align: center;
-}
-span {
+ }
+ span {
     text-align: center;
-}
+ }
 
-#seccionredes {
+ #seccionredes {
     width: 30%;
     margin: 0 auto;
     text-align: center;
-}
-a {
+ }
+ a {
     font-weight: 600;
-}
+ }
