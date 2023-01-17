@@ -6,3 +6,22 @@ h1 {
     width: 50%;
     margin: 0 auto;
   }
+  h2 {
+    font-family: "Open sans", sans-serif;
+  }
+
+p {
+    text-align: center;
+}
+span {
+    text-align: center;
+}
+
+#seccionredes {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+a {
+    font-weight: 600;
+}
