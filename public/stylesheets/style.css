@@ -24,16 +24,26 @@ h1 {
  }
  a {
     font-weight: 600;
+    text-decoration: none;
  }
+.section h2 {
+    color: #0BCC7B;
+}
  .seccion {
         width: 50%;
         margin: 0 auto; 
+        background-color: white;
+        padding: 2%;
+        margin-top: 2% !important;
+        margin-bottom: 2% !important;
+        box-shadow: 0 1px 6px rgb(0 0 0 / 12%), 0 1px 4px rgb(0 0 0 / 24%);
+     
     }
 
-    #seccionhabilidades table td {
+ #seccionhabilidades table td {
         text-align: center;
     }
 
-    #seccionhabilidades table {
+ #seccionhabilidades table {
         margin: 0 auto;
     }
