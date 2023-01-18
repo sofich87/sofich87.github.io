@@ -25,3 +25,15 @@ h1 {
  a {
     font-weight: 600;
  }
+ .seccion {
+        width: 50%;
+        margin: 0 auto; 
+    }
+
+    #seccionhabilidades table td {
+        text-align: center;
+    }
+
+    #seccionhabilidades table {
+        margin: 0 auto;
+    }
