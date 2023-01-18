@@ -50,3 +50,12 @@ section h2 {
 #seccionhabilidades table {
         margin: 0 auto;
     }
+nav ul {
+    list-style-type: none;
+}
+
+#secciondatos p{
+    font-size: 1.4rem;
+    margin-top: 6%;
+    color: #373B41;
+}
