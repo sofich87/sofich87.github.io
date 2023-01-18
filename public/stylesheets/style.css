@@ -6,14 +6,15 @@ h1 {
     width: 50%;
     margin: 0 auto;
   }
-  h2 {
+h2 {
     font-family: "Open sans", sans-serif;
   }
 
- p {
+p {
     text-align: center;
  }
- span {
+
+span {
     text-align: center;
  }
 
@@ -22,14 +23,16 @@ h1 {
     margin: 0 auto;
     text-align: center;
  }
- a {
+a {
     font-weight: 600;
     text-decoration: none;
  }
+
 .section h2 {
     color: #0BCC7B;
 }
- .seccion {
+
+.seccion {
         width: 50%;
         margin: 0 auto; 
         background-color: white;
@@ -40,10 +43,10 @@ h1 {
      
     }
 
- #seccionhabilidades table td {
+#seccionhabilidades table td {
         text-align: center;
     }
 
- #seccionhabilidades table {
+#seccionhabilidades table {
         margin: 0 auto;
     }
