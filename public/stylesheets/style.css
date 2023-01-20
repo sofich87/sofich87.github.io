@@ -81,3 +81,8 @@ nav ul {
 #mapa{
     grid-area: area5;
 }
+.tablacontacto {
+    padding: 5%;
+    font-size: 2rem;
+    text-align: center;
+}
