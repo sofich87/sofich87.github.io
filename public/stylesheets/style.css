@@ -59,3 +59,18 @@ nav ul {
     margin-top: 6%;
     color: #373B41;
 }
+
+#seccioncontactenos {
+    display: grid;
+    grid-template-areas: "area1 area2 area3 area4"
+                         "area5 area6 area7 area8"
+                         "area9 area10 area11 area12";
+}
+#contactameh2 {
+    background-color: chartreuse;
+    grid-area: area1;
+}
+#susdatosh3 {
+    background-color: chartreuse;
+    grid-area: area5;
+}
