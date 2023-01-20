@@ -75,3 +75,9 @@ nav ul {
 #ubicacion {
     grid-area: area3;
 }
+#llenarform{
+    grid-area: area4;
+}
+#mapa{
+    grid-area: area5;
+}
