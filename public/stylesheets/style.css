@@ -61,7 +61,6 @@ nav ul {
 }
 
 #seccioncontactenos {
-    margin: 0 auto;
     display: grid;
     grid-template-areas: "area1 area1 area1 area1"
                          "area2 area2 area3 area3"
