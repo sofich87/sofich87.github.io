@@ -67,10 +67,8 @@ nav ul {
                          "area9 area10 area11 area12";
 }
 #contactameh2 {
-    background-color: chartreuse;
     grid-area: area1;
 }
 #susdatosh3 {
-    background-color: chartreuse;
     grid-area: area5;
 }
