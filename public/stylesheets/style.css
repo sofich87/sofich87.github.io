@@ -52,9 +52,6 @@ section h2 {
     }
 nav ul {
     list-style-type: none;
-    display: flex;
-    flex-direction: row; 
-    justify-content: space-around;
 }
 
 #secciondatos p{
@@ -83,6 +80,16 @@ nav ul {
 } 
 #seccioncontactenos #mapa{
     grid-area: area5;
+}
+nav ul{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 
