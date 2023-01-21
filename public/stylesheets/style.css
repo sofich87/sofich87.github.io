@@ -86,7 +86,7 @@ nav ul{
     flex-direction: row; 
     justify-content: space-around;
 }
-footer #address{
+footer address{
     display: flex;
     flex-direction: column;
 }
