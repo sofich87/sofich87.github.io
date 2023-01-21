@@ -66,19 +66,19 @@ nav ul {
                          "area2 area2 area3 area3"
                          "area4 area4 area5 area5";
 }
-#contactameh2 {
+#seccioncontactenos h2 {
     grid-area: area1;
 }
-#susdatosh3 {
+#seccioncontactenos #susdatosh3 {
     grid-area: area2;
 }
-#ubicacion {
+#seccioncontactenos #ubicacion {
     grid-area: area3;
 }
-#llenarform{
+#seccioncontactenos #llenarform{
     grid-area: area4;
 } 
-#mapa{
+#seccioncontactenos #mapa{
     grid-area: area5;
 }
 
