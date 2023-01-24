@@ -30,28 +30,34 @@ header {
 
 h1 {
     grid-area: area7;
+    align-items: baseline;
 }
 
 
 p {
     grid-area: area12;
+    align-items: baseline;
 }
 
 img#lib1{
     grid-area: area8;
+    align-items: baseline;
 }
 
 img#lib2{
     grid-area: area9;
+    align-items: baseline;
 }
 
 img#lib3{
     grid-area: area10;
+    align-items: baseline;
 }
 
 
 img#lib4{
     grid-area: area11;
+    align-items: baseline;
 }
 
 nav ul{
