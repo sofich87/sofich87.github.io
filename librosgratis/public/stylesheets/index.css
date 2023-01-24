@@ -26,29 +26,29 @@ header {
                          "area6 area6 area2 area3 area4 area5";
 }
 
-header h1 {
+h1 {
     grid-area: area1;
 }
 
 
-header p {
+p {
     grid-area: area6;
 }
 
-header img#lib1{
+img#lib1{
     grid-area: area2;
 }
 
-header img#lib2{
+img#lib2{
     grid-area: area3;
 }
 
-header img#lib3{
+img#lib3{
     grid-area: area4;
 }
 
 
-header img#lib4{
+img#lib4{
     grid-area: area5;
 }
 
