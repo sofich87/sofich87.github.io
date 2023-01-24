@@ -20,6 +20,38 @@ header {
     background-position: center center; 
 }
 
+header {
+    display: grid;
+    grid-template-areas: "area1 area1 area2 area3 area4 area5"
+                         "area6 area6 area2 area3 area4 area5";
+}
+
+header h1 {
+    grid-area: area1;
+}
+
+
+header p {
+    grid-area: area6;
+}
+
+header img#lib1{
+    grid-area: area2;
+}
+
+header img#lib2{
+    grid-area: area3;
+}
+
+header img#lib3{
+    grid-area: area4;
+}
+
+
+header img#lib4{
+    grid-area: area5;
+}
+
 nav ul{
     list-style-type: none;
     display: flex;
