@@ -19,3 +19,10 @@ header {
     background-repeat: no-repeat;
     background-position: center center; 
 }
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+}
