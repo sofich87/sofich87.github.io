@@ -22,34 +22,35 @@ header {
 
 header {
     display: grid;
-    grid-template-areas: "area1 area1 area2 area3 area4 area5"
-                         "area6 area6 area2 area3 area4 area5";
+    grid-template-areas: "area1 area2 area3 area4 area5 area6"
+                         "area7 area7 area8 area9 area10 area11"
+                         "area12 area12 area8 area9 area10 area11";
 }
 
 h1 {
-    grid-area: area1;
+    grid-area: area7;
 }
 
 
 p {
-    grid-area: area6;
+    grid-area: area12;
 }
 
 img#lib1{
-    grid-area: area2;
+    grid-area: area8;
 }
 
 img#lib2{
-    grid-area: area3;
+    grid-area: area9;
 }
 
 img#lib3{
-    grid-area: area4;
+    grid-area: area10;
 }
 
 
 img#lib4{
-    grid-area: area5;
+    grid-area: area11;
 }
 
 nav ul{
