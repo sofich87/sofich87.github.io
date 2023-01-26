@@ -74,6 +74,10 @@ nav ul{
                          "area2 area3 area4 area5 area6"
   }
 
+#webdevelopment1 h2 {
+    grid-area: area1;
+    align-items: baseline;
+}
 section img#lib5{
     grid-area: area2;
     align-items: baseline;
