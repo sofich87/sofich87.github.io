@@ -69,30 +69,7 @@ nav ul{
 
 #webdevelopment1 {
     margin: 0 auto;
-    display: grid;
-    grid-template-areas: "area1 area1 area1 area1 area1"
-                         "area2 area3 area4 area5 area6"
-  }
-
-#webdevelopment1 h2#title2 {
-    grid-area: area1;
-}
-section img#lib5{
-    grid-area: area2;
-}
-
-section img#lib6{
-    grid-area: area3;
-}
-
-section img#lib7{
-    grid-area: area4;
-}
-
-section img#lib8{
-    grid-area: area5;
-}
-
-section img#lib9{
-    grid-area: area6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
