@@ -1,0 +1,6 @@
+#background {
+  background-image: url('public/images/background.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+}
