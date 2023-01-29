@@ -25,3 +25,10 @@ span {
 a {
     font-weight: 600;
 }
+
+#myCarousel {
+  background-image: url('../images/background.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+}
