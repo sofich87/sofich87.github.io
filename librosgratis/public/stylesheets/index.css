@@ -39,10 +39,6 @@ p {
     align-items: baseline;
 }
 
-img#lib1{
-    grid-area: area8;
-    align-items: baseline;
-}
 
 img#lib2{
     grid-area: area9;

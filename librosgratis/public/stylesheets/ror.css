@@ -10,3 +10,29 @@ body {
     margin: 0;
     padding: 0;
 }
+
+main {
+    display: grid;
+    grid-template-areas: "area1 area2 area2 area3"
+                         "area1 area2 area2 area3"
+                         "area1 area2 area2 area3";
+}
+
+div#inicio{
+    grid-area: area1;
+}
+
+div#fotpar{
+    grid-area: area2;
+}
+
+nav#imgs{
+    grid-area: area3;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+}
