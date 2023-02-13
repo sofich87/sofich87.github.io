@@ -22,10 +22,10 @@ header {
 
 header {
     display: grid;
-    grid-template-areas: "area1 area2 area3 area4 area5 area6"
-                         "area7 area7 area8 area9 area10 area11"
-                         "area12 area12 area8 area9 area10 area11";
-    align-items: baseline;
+    grid-template-areas: "area1 area1 area3 area4 area5 area6"
+                         "area7 area7 area9 area10 area11 area12"
+                         "area8 area8 area9 area10 area11 area12";
+    column-gap: 1rem;
 }
 
 h1 {
@@ -35,24 +35,31 @@ h1 {
 
 
 p {
-    grid-area: area12;
+    grid-area: area8;
     align-items: baseline;
 }
+p span{
+    font-weight: bold;
+}
 
+img#lib1{
+    grid-area: area9;
+    align-content: baseline;
+}
 
 img#lib2{
-    grid-area: area9;
+    grid-area: area10;
     align-items: baseline;
 }
 
 img#lib3{
-    grid-area: area10;
+    grid-area: area11;
     align-items: baseline;
 }
 
 
 img#lib4{
-    grid-area: area11;
+    grid-area: area12;
     align-items: baseline;
 }
 
