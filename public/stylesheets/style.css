@@ -25,7 +25,7 @@ span {
  }
 a {
     font-weight: 600;
-    text-decoration: none;
+    text-decoration: none; 
  }
 
 section h2 {
@@ -75,19 +75,20 @@ nav ul {
 #seccioncontactenos h3#ubicacion {
     grid-area: area3;
 }
-#seccioncontactenos #llenarform{
+#seccioncontactenos form{
     grid-area: area4;
 } 
-#seccioncontactenos #mapa{
+#seccioncontactenos div{
     grid-area: area5;
 }
 nav ul{
-    display: flex;
-    flex-direction: row; 
+    display: flex; 
     justify-content: space-around;
+    text-align: center;
 }
 footer address{
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
